@@ -1,0 +1,57 @@
+{
+  "login": {
+    "title": "Admin login",
+    "email": "Email",
+    "password": "Password",
+    "action": "Login"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "moderators": "Moderators",
+    "events": "Events",
+    "locations": "Locations",
+    "offers": "Offers",
+    "logout": "Logout"
+  },
+  "swal": {
+    "created": "Created",
+    "deleted": "Deleted",
+    "updated": "Updated"
+  },
+  "rules": {
+    "req": "Required",
+    "num": "Only numeric values",
+    "mail": "Must be a valid form"
+  },
+  "dialogs": {
+    "add": "Add",
+    "close": "Close",
+    "save": "Save"
+  },
+  "events": {
+    "add": "Add event",
+    "title": "Title",
+    "text": "Text",
+    "edit": "Edit event"
+  },
+  "locations": {
+    "name": "Name",
+    "add": "Add location",
+    "edit": "Edit location"
+  },
+  "offers": {
+    "add": "Add offer",
+    "edit": "Edit offer",
+    "title": "Title",
+    "text": "Text"
+  },
+  "moderators": {
+    "add": "Add moderator",
+    "edit": "Edit moderator",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "email": "Email",
+    "password": "Password",
+    "password_confirmation": "Password confirmation"
+  }
+}

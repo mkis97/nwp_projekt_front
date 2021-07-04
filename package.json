@@ -1,0 +1,26 @@
+{
+  "name": "vtgo-front",
+  "version": "1.0.0",
+  "description": "My world-class Nuxt.js project",
+  "author": "Marijo Kiš",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.10.3",
+    "chart.js": "^2.9.3",
+    "hchs-vue-charts": "^1.2.8",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.19",
+    "nuxt": "^2.13.0",
+    "nuxt-i18n": "^6.8.1",
+    "sweetalert2": "^9.17.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^2.0.0-beta.0"
+  }
+}

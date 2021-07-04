@@ -1,0 +1,57 @@
+{
+  "login": {
+    "title": "Admin prijava",
+    "email": "E-pošta",
+    "password": "Zaporka",
+    "action": "Prijava"
+  },
+  "navigation": {
+    "dashboard": "Pregled",
+    "moderators": "Moderatori",
+    "events": "Događaji",
+    "locations": "Lokacije",
+    "offers": "Ponuda",
+    "logout": "Odjava"
+  },
+  "swal": {
+    "created": "Kreirano",
+    "deleted": "Obrisano",
+    "updated": "Izmjenjeno"
+  },
+  "rules": {
+    "req": "Obavezno",
+    "num": "Samo brojčane vrijednosti",
+    "mail": "Mora biti ispravnog oblika"
+  },
+  "dialogs": {
+    "add": "Dodajte",
+    "close": "Zatvorite",
+    "save": "Spremite"
+  },
+  "events": {
+    "add": "Dodajte događaj",
+    "title": "Naslov",
+    "text": "Sadržaj",
+    "edit": "Uredite događaj"
+  },
+  "locations": {
+    "name": "Ime",
+    "add": "Dodajte lokaciju",
+    "edit": "Uredite lokaciju"
+  },
+  "offers": {
+    "add": "Dodajte ponudu",
+    "edit": "Uredite ponudu",
+    "title": "Naslov",
+    "text": "Tekst"
+  },
+  "moderators": {
+    "add": "Dodajte moderatora",
+    "edit": "Uredite moderatora",
+    "firstname": "Ime",
+    "lastname": "Prezime",
+    "email": "Email",
+    "password": "Zaporka",
+    "password_confirmation": "Potvrda zaporke"
+  }
+}
